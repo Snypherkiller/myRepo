@@ -29,6 +29,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snypherkiller&show_icons=true&locale=en&layout=compact" alt="snypherkiller" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snypherkiller&show_icons=true&locale=en" alt="snypherkiller" /></p>
 
 
